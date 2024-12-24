@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'Penna';
+    src: url('Penna.woff2') format('woff2'),
+        url('Penna.woff') format('woff'),
+        url('Penna.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey';
+    src: url('Audrey-Bold.woff2') format('woff2'),
+        url('Audrey-Bold.woff') format('woff'),
+        url('Audrey-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey';
+    src: url('Audrey-BoldOblique.woff2') format('woff2'),
+        url('Audrey-BoldOblique.woff') format('woff'),
+        url('Audrey-BoldOblique.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey Med';
+    src: url('Audrey-MediumOblique.woff2') format('woff2'),
+        url('Audrey-MediumOblique.woff') format('woff'),
+        url('Audrey-MediumOblique.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey Med';
+    src: url('Audrey-Medium.woff2') format('woff2'),
+        url('Audrey-Medium.woff') format('woff'),
+        url('Audrey-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey';
+    src: url('Audrey-Normal.woff2') format('woff2'),
+        url('Audrey-Normal.woff') format('woff'),
+        url('Audrey-Normal.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Audrey';
+    src: url('Audrey-NormalOblique.woff2') format('woff2'),
+        url('Audrey-NormalOblique.woff') format('woff'),
+        url('Audrey-NormalOblique.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

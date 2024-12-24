@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Penna';
+    src: url('Penna.woff2') format('woff2'),
+        url('Penna.woff') format('woff'),
+        url('Penna.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
